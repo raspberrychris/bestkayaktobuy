@@ -55,8 +55,8 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
+    enabled: true # needs to be explicitly set
+    title: this is a title
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -122,21 +122,21 @@ menu:
     - identifier: Affiliate Disclosure
       name: Affiliate Disclosure
       url: /affiliate-disclosure/
-      weight: 30
+      weight: 40
     - identifier: Buying Guides
       name: Buying Guides
       url: /tags/buying-guides/
-      weight: 40
+      weight: 30
     - identifier: Privacy Policy
       name: Privacy Policy
       url: /privacy-policy/
       weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+    markup:
+        highlight:
+        anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        style: monokai
