@@ -2,19 +2,18 @@
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
 ShowReadingTime = false
-TocOpen = false
-author = ""
+TocOpen = true
+author = "Chris"
 canonicalURL = ""
 comments = false
-date = ""
+date = 2021-12-05T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
-showToc = false
+showToc = true
 tags = []
 title = "Intex Challenger Kayak Inflatable Set with Aluminum Oars"
 [cover]
