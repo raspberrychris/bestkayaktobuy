@@ -76,10 +76,10 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: instagram
+      url: "https://instagram.com/"
+    - name: youtube
+      url: "https://youtube.com/"
 
   analytics:
     google:
@@ -90,9 +90,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
@@ -116,16 +116,16 @@ menu:
       url: https://bestkayaktobuy.com
       weight: 10
     - identifier: Brands
-      name: brands
+      name: Brands
       url: /categories/
       weight: 20
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 30
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: Buying Guides
+      name: Buying Guides
+      url: /tags/buying-guides/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
