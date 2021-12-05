@@ -29,3 +29,5 @@ appendFilePath = false
 
 +++
 ![Intex Challenger Kayak Inflatable Set with Aluminum Oars](https://m.media-amazon.com/images/I/81YZevt3C2L._AC_SX679_.jpg)
+
+In this review we will be looking at the
