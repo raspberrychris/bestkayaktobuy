@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "Chris"
 canonicalURL = ""
