@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Best Kayak to Buy
-  description: "Welcome to Best Kayak To Buy.  Discover the very best quality kayaks and read our honest expert reviews."
+  description: "Welcome to [Best Kayak To Buy](https://bestkayaktobuy.com).  Discover the very best quality kayaks and read our honest expert reviews."
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
