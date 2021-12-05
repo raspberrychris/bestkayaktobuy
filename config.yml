@@ -119,9 +119,9 @@ menu:
       name: Brands
       url: /categories/
       weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: Affiliate Disclosure
+      name: Affiliate Disclosure
+      url: /affiliate-disclosure/
       weight: 30
     - identifier: Buying Guides
       name: Buying Guides
