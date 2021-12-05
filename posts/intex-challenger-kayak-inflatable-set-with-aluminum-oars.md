@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "Chris"
 canonicalURL = ""
@@ -20,7 +20,7 @@ title = "Intex Challenger Kayak Inflatable Set with Aluminum Oars"
 alt = ""
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/81yzevt3c2l-_ac_sx679_.jpg"
 relative = false
 [editPost]
 Text = ""
@@ -28,5 +28,6 @@ URL = ""
 appendFilePath = false
 
 +++
+![Intex Challenger Kayak Inflatable Set with Aluminum Oars](https://m.media-amazon.com/images/I/81YZevt3C2L._AC_SX679_.jpg)
 
-![Intex Challenger Kayak Inflatable Set with Aluminum Oars](https://m.media-amazon.com/images/I/81YZevt3C2L._AC_SX679_.jpg) 
+In this review we will be looking at the

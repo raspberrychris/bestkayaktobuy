@@ -10,7 +10,7 @@ title = "Privacy Policy"
 +++
 ## WHO WE ARE
 
-Our website address is: [https://healthynailguru.com/](https://healthynailguru.com/ "https://healthynailguru.com/")
+Our website address is: [https://bestkayaktobuy.com](https://bestkayaktobuy.com "https://bestkayaktobuy.com")
 
 ## COMMENTS
 
@@ -40,7 +40,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ## WHO WE SHARE YOUR DATA WITH
 
- If you request a password reset, your IP address will be included in the reset email.
+If you request a password reset, your IP address will be included in the reset email.
 
 ## HOW LONG WE RETAIN YOUR DATA
 
