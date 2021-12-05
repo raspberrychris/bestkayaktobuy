@@ -8,6 +8,7 @@ author = "Healthy Nail Guru"
 comments = true
 date = 2021-10-18T23:00:00Z
 description = "If you are suffering from toenail fungus, then it can be very difficult to try and get rid of this problem."
+draft = true
 showToc = true
 tags = ["Remedy", "Toe Nail Fungus"]
 title = "What Kills Toe Nail Fungus? How to Get Rid of It"
