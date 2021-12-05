@@ -1,5 +1,5 @@
 baseURL: "/"
-title: K Skin Beautiful
+title: Best Kayak to Buy
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Hot Tub To Buy
+  title: Best Kayak to Buy
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -111,6 +111,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: https://bestkayaktobuy.com
     - identifier: categories
       name: categories
       url: /categories/
