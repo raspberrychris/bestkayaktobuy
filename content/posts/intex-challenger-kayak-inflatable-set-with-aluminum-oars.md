@@ -32,4 +32,16 @@ appendFilePath = false
 
 In this review we will be taking a look at the **I**[**ntex Challenger Kayak Inflatable Set with Aluminium Oars**](#), which is a one person sit in kayak.  If you are looking to purchase a kayak for yourself or as a gift for friends and family then you really can’t go that wrong with this particular model in our opinion.  In this review we will be taking it through its paces to understand why this is one of the most popular Kayaks out there.
 
-The[ **Intex Challenger Kayak**](#) is one of the top rated Kayaks on Amazon.com, with over 20,000 customers  giving this kayak a rating of 72% or above.  But what is it that makes this kayak so popular?  Some of the features that stand out for us are the ample leg room, the quality of the materials used on this kayak and the durability of the materials used.  When it comes to repairs of the [**Intex Challenge Kayak**](#), they are fast and straight forward to do.
+The[ **Intex Challenger Kayak**](#) is one of the top rated Kayaks on Amazon.com, with over 20,000 customers  giving this kayak a stunning rating of 72% or above.  But what is it that makes this kayak so popular?  
+
+## Lots of space for your legs
+
+Some of the features that stand out for us are the ample leg room, the quality of the materials used on this kayak and the durability of the materials used.  When it comes to repairs of the [**Intex Challenge Kayak**](#), they are fast and straight forward to do.  
+
+## Fits in a Bag
+
+The fact that this kayak fits in a bag and doesn’t way as much as other kayaks (less than 20lbs) means it is also highly transportable, which makes it perfect for weekend trips where you can just put it in the back of the car.
+
+## Easy to assemble
+
+This is actually one of the easiest kayaks that we have reviewed to assemble.
