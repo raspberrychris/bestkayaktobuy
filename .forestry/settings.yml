@@ -5,15 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: blog
+  path: archetypes
   label: Blog
   create: all
   match: "**/*"
+  templates:
+  - template
 - type: directory
   path: content
   label: Pages

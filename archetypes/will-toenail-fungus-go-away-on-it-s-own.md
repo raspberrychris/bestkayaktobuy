@@ -8,6 +8,7 @@ author = "Healthy Nail Guru"
 comments = true
 date = 2021-09-20T23:00:00Z
 description = "Will Toenail Fungus go away on its own? Discover the answer in this article."
+draft = true
 hidemeta = false
 showToc = true
 tags = ["Athlete’s Foot", "Treatment", "Toe Nail Fungus"]
