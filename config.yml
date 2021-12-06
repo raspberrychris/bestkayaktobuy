@@ -73,14 +73,6 @@ homeInfoParams:
   Title: "Hi Welcome to Best Kayak To Buy"
   Content: Welcome to my [Best Kayak To Buy](https://bestkayaktobuy.com). On this website we review the best kayaks available and give our honest opinion on how good they are.
 
-socialIcons:
-  - name: twitter
-      url: "https://twitter.com/"
-  - name: instagram
-      url: "https://instagram.com/"
-  - name: youtube
-      url: "https://youtube.com/"
-
 analytics:
   google:
       SiteVerificationTag: "XYZabc"
