@@ -1,5 +1,5 @@
 baseURL: "https://bestkayaktobuy.com"
-title: Best Kayak to buy
+title: Best Kayak To Buy
 paginate: 5
 theme: PaperMod
 
@@ -65,8 +65,8 @@ outputs:
 
 params:
     env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
-    description: "Discover how to keep your Nails in great shape with the Healthy Nail Guru"
-    author: Healthy Nail Guru
+    description: "Discover the very best Kayak to buy with our honest reviews at Kayaktobuy.com!"
+    author: Best Kayak To Buy
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
@@ -108,7 +108,7 @@ params:
       hiddenInSingle: false # hide on single page
 
     editPost:
-        URL: "https://healthynailguru.com/contact"
+        URL: "/contact"
         Text: "" # edit text
         appendFilePath: true # to append file path to Edit link
 
