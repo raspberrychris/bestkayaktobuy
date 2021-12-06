@@ -127,6 +127,11 @@ menu:
       name: Privacy Policy
       url: /privacy-policy/
       weight: 60
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 70
+      
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
     - markup:
