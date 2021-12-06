@@ -1,149 +1,184 @@
-baseURL: "/"
-title: Best Kayak To Buy
-paginate: 6
+baseURL: "https://bestkayaktobuy.com"
+title: Best Kayak to buy
+paginate: 5
 theme: PaperMod
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
-googleAnalytics: UA-123-45
+enableEmoji: true
+# googleAnalytics: UA-123-45
 
 minify:
-  disableXML: false
-  minifyOutput: true
+    disableXML: false
+    minifyOutput: true
 
-params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Best Kayak To Buy
-  description: "Welcome to [Best Kayak To Buy](https://bestkayaktobuy.com).  Discover the very best quality kayaks and read our honest expert reviews."
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: light # dark, light
-  disableThemeToggle: true
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives/
+                  weight: 10
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: true
-  tocopen: true
+        menu:
+            main:
+                - name: Home
+                  url: /
+                  weight: 10
+                - name: Blog
+                  url: "/posts/"
+                  weight: 20
+                - name: Affiliate Disclosure
+                  url: "/affiliate-disclosure/"
+                  weight: 70
+                - name: Privacy Policy
+                  url: "/privacy-policy/"
+                  weight: 60
+                - name: Search
+                  url: search
+                  weight: 80
+                - name: Buying Guides
+                  url: "/tags/buying-guides"
+                  weight: 30
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
 
-  label:
-    text: ""
-    icon: https://i.ibb.co/FmYx7nm/bktb-logo-removebg-preview.png
-    iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: this is a title
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
-  # home-info mode
-homeInfoParams:
-  Title: "Hi Welcome to Best Kayak To Buy"
-  Content: Welcome to my [Best Kayak To Buy](https://bestkayaktobuy.com). On this website we review the best kayaks available and give our honest opinion on how good they are.
-
-analytics:
-  google:
-      SiteVerificationTag: "XYZabc"
-  bing:
-      SiteVerificationTag: "XYZabc"
-  yandex:
-      SiteVerificationTag: "XYZabc"
-
-cover:
-  hidden: false # hide everywhere but not in structured data
-  hiddenInList: false # hide on list pages and home
-  hiddenInSingle: false # hide on single page
-
-editPost:
-  URL: "https://github.com/<path_to_repo>/content"
-  Text: "Suggest Changes" # edit text
-  appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
-fuseOpts:
-  isCaseSensitive: false
-  shouldSort: true
-  location: 0
-  distance: 1000
-  threshold: 0.4
-  minMatchCharLength: 0
-  keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: home
-      name: Home
-      url: https://bestkayaktobuy.com
-      weight: 10
-    - identifier: Blog
-      name: Blog
-      url: /posts/
-      weight: 20
-    - identifier: Brands
-      name: Brands
-      url: /categories/
-      weight: 30
-    - identifier: Affiliate Disclosure
-      name: Affiliate Disclosure
-      url: /affiliate-disclosure/
-      weight: 50
-    - identifier: Buying Guides
-      name: Buying Guides
-      url: /tags/buying-guides/
-      weight: 40
-    - identifier: Privacy Policy
-      name: Privacy Policy
-      url: /privacy-policy/
-      weight: 60
-    - identifier: Search
-      name: Search
-      url: /search/
-      weight: 70
-
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-    - markup:
-        highlight:
-        anchorLineNos: true
-        codeFences: true
-        guessSyntax: true
-        lineNos: true
-        style: monokai
 
 outputs:
-  home:
-      - HTML
-      - RSS
-      - JSON # is necessary
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
+    description: "Discover how to keep your Nails in great shape with the Healthy Nail Guru"
+    author: Healthy Nail Guru
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: light
+    disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Best Kayak To Buy"
+        Content: >
+            Welcome to Bestkayaktobuy.com
+
+            Check out our posts below.
+
+    cover:
+      hidden: false # hide everywhere but not in structured data
+      hiddenInList: false # hide on list pages and home
+      hiddenInSingle: false # hide on single page
+
+    editPost:
+        URL: "https://healthynailguru.com/contact"
+        Text: "" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    # assets:
+    #     favicon: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
