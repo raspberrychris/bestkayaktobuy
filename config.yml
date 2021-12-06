@@ -128,7 +128,7 @@ menu:
       url: /privacy-policy/
       weight: 60
     - identifier: Search
-      name: search
+      name: Search
       url: /search/
       weight: 70
 
