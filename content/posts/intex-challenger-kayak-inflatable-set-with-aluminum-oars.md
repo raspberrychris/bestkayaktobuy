@@ -17,7 +17,7 @@ showToc = true
 tags = []
 title = "Intex Challenger Kayak Inflatable Set with Aluminum Oars"
 [cover]
-alt = ""
+alt = "Intex Challenger Kayak inflatable set"
 caption = ""
 hidden = false
 image = "/uploads/81yzevt3c2l-_ac_sx679_.jpg"
