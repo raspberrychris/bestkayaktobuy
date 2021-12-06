@@ -12,13 +12,6 @@ sections:
   templates:
   - template
 - type: directory
-  path: archetypes
-  label: Blog
-  create: all
-  match: "**/*"
-  templates:
-  - template
-- type: directory
   path: content
   label: Pages
   create: all
