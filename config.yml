@@ -1,6 +1,6 @@
 baseURL: "/"
 title: Best Kayak to Buy
-paginate: 5
+paginate: 6
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -64,7 +64,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Posts
-        url: posts
+        url: gposts
       - name: Tags
         url: tags
 
@@ -115,22 +115,26 @@ menu:
       name: Home
       url: https://bestkayaktobuy.com
       weight: 10
+    - identifier: Blog
+      name: Blog
+      url: /posts/
+      weight: 20
     - identifier: Brands
       name: Brands
       url: /categories/
-      weight: 20
+      weight: 30
     - identifier: Affiliate Disclosure
       name: Affiliate Disclosure
       url: /affiliate-disclosure/
-      weight: 40
+      weight: 50
     - identifier: Buying Guides
       name: Buying Guides
       url: /tags/buying-guides/
-      weight: 30
+      weight: 40
     - identifier: Privacy Policy
       name: Privacy Policy
       url: /privacy-policy/
-      weight: 50
+      weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
     - markup:
