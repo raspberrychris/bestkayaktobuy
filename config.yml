@@ -1,5 +1,5 @@
 baseURL: "/"
-title: b
+title: Best Kayak To Buy
 paginate: 6
 theme: PaperMod
 
@@ -50,7 +50,7 @@ params:
 
   label:
     text: ""
-    icon: https://i.ibb.co/hRQVwyr/bktb-logo.png
+    icon: https://i.ibb.co/FmYx7nm/bktb-logo-removebg-preview.png
     iconHeight: 35
 
   # profile-mode
