@@ -20,7 +20,7 @@ title = "Intex Challenger Kayak Inflatable Set with Aluminum Oars"
 alt = "Intex Challenger Kayak inflatable set"
 caption = ""
 hidden = false
-image = "/uploads/81yzevt3c2l-_ac_sx679_.jpg"
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-30.png"
 relative = false
 [editPost]
 Text = ""
