@@ -69,7 +69,7 @@ params:
         url: tags
 
   # home-info mode
-  homeInfoParams:
+  homeInfoParams: true
     Title: "Hi Welcome to Best Kayak To Buy"
     Content: Welcome to my [Best Kayak To Buy](https://bestkayaktobuy.com). On this website we review the best kayaks available and give our honest opinion on how good they are.
 
