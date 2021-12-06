@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Best Kayak To Buy"
-    icon: /apple-touch-icon.png
+    icon: https://i.ibb.co/hRQVwyr/bktb-logo.png
     iconHeight: 35
 
   # profile-mode
