@@ -60,4 +60,8 @@ This is actually one of the easiest kayaks that we have reviewed to assemble, th
 
 We have touched on this earlier but the kayak is made of rugged materials and a lot of customers have actually reported that they have taken their dog with them in the kayak and have not any issues from nail punctures.  (We don’t advise you do do this obviously, but it does show the fact that some customers are willing to trust this kayak enough to take their pets with them!
 
+## How does the Intex Challenger Kayak Compare to Other Kayaks on the Market?
+
+This is certainly one of the most popular kayaks that we have ever reviewed, so in terms of overall popularity of the Intex Challenge Kayak it is currently unbeatable.  However this is not to say that it is the most high performance Kayak out there.  What the Intex does really well though is it makes Kayaking fun for people who may not normally Kayak and also packs it in to an affordable package that doesn’t break the bank.  The fact that it can be inflated and deflated relatively easily and is lightweight when compared to a traditional kayak, also scores a lot of points with more casual kayakers who are maybe looking for an occasional fun weekend away on the coast and again are not looking for a performance Kayak that will get them to the highest speeds.
+
 ## Other Retailers where you can buy the Intex Challenger Kayak:
