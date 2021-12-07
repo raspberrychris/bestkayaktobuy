@@ -62,6 +62,14 @@ We have touched on this earlier but the kayak is made of rugged materials and a 
 
 ## How does the Intex Challenger Kayak Compare to Other Kayaks on the Market?
 
-This is certainly one of the most popular kayaks that we have ever reviewed, so in terms of overall popularity of the Intex Challenge Kayak it is currently unbeatable.  However this is not to say that it is the most high performance Kayak out there.  What the Intex does really well though is it makes Kayaking fun for people who may not normally Kayak and also packs it in to an affordable package that doesn’t break the bank.  The fact that it can be inflated and deflated relatively easily and is lightweight when compared to a traditional kayak, also scores a lot of points with more casual kayakers who are maybe looking for an occasional fun weekend away on the coast and again are not looking for a performance Kayak that will get them to the highest speeds.
+ Intex Challenge KayakThis is certainly one of the most popular kayaks that we have ever reviewed, so in terms of overall popularity of the [**Intex Challenge Kayak**](#) it is currently unbeatable.  However this is not to say that it is the most high performance Kayak out there.  What the Intex does really well though is it makes Kayaking fun for people who may not normally Kayak and also packs it in to an affordable package that doesn’t break the bank.  The fact that it can be inflated and deflated relatively easily and is lightweight when compared to a traditional kayak, also scores a lot of points with more casual kayakers who are maybe looking for an occasional fun weekend away on the coast and again are not looking for a performance Kayak that will get them to the highest speeds.
+
+## Our Final Verdict
+
+**5/5**
+
+This is a tried and tested product by over 20,000 customers and although the [**Intex Challenger Kayak **](#)isn’t the most high performance Kayak out there, it is certainly a fun experience to use and this is why we have given it such a high rating.  Even if you are a high performance Kayaker you may find the Intex fun to use on your down time if you need something that is more easily transportable.
+
+**We hope you found this review of the** [**Intex Challenge Kayak**](#) **useful.  If you have any thoughts on this particular Kayak please let us know.**
 
 ## Other Retailers where you can buy the Intex Challenger Kayak:
