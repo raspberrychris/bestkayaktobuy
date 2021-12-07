@@ -32,17 +32,23 @@ appendFilePath = false
 
 In this review we will be taking a look at the [**Intex Challenger Kayak Inflatable Set with Aluminium Oars**](#), which is a one person sit in kayak.  If you are looking to purchase a kayak for yourself or as a gift for friends and family then you really can’t go that wrong with this particular model in our opinion.  In this review we will be taking it through its paces to understand why this is one of the most popular Kayaks out there.  We will be looking at how customers have reacted to this kayak, how they rated it and we will give it a final score.  Throughout the review we will also weigh up the pros and cons of the [**Intex Challenger Kayak Inflatable Set**](#), to understand whether the positives outweigh the negatives.
 
+![](/uploads/c1173479-852d-45ad-8a1c-7ecb493b7aa8.jpeg)
+
 If you can’t wait and like what you are reading you can [**jump straight to the product listing on Amazon.com by clicking this link here…**](#)
 
 The[ **Intex Challenger Kayak**](#) is one of the top rated Kayaks on Amazon.com, with over 20,000 customers  giving this kayak a stunning rating of 72% or above.  But what is it that makes this kayak so popular?
 
 ## Lots of space for your legs
 
+![Leg space](/uploads/25d537fd-96ea-4963-8700-ff384398c1b6.jpeg "Leg space")
+
 Some of the features that stand out for us are the ample leg room, the quality of the materials used on this kayak and in particular the durability of the materials used.  When it comes to repairs of the [**Intex Challenge Kayak**](#), they are also fast and straight forward to do.
 
 ## Fits in a Bag
 
 The fact that this kayak fits in a bag and doesn’t weigh as much as other kayaks (25lbs for the K1 version and 35lbs for the K2 version) means it is also highly transportable, which makes it perfect for weekend trips where you can just put it in the back of the car and have an adventure weekend.
+
+![Fits in a bag](/uploads/e9b47c43-28f1-4ed7-a00f-210bda96bc4e.jpeg "Fits in a bag")
 
 ## Lightweight - When compared to other kayaks
 
