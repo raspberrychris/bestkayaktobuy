@@ -10,7 +10,6 @@ date = 2021-12-09T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -21,7 +20,7 @@ title = "Intex Explorer K2 Kayak, 2-Person Inflatable Kayak Set with Aluminum Oa
 alt = "Intex Explorer K2 Kayak, 2-Person Inflatable Kayak Set with Aluminum Oars and High Output Air Pump"
 caption = ""
 hidden = false
-image = "/uploads/b1af81f3-2aed-469e-abe7-c3b8fcc0a1b8.jpeg"
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-31.png"
 relative = false
 [editPost]
 Text = ""
@@ -29,6 +28,8 @@ URL = ""
 appendFilePath = false
 
 +++
+![](/uploads/b1af81f3-2aed-469e-abe7-c3b8fcc0a1b8.jpeg)
+
 In this review we will take a look at the [**Intex Explorer K2 Kayak** ](#)and we will take this kayak through its paces and understand what it is about this Kayak that has made it one of the most popular two seater inflatable kayaks out there that you can buy today.
 
 [**If you cant wait and want to skip to the product page, click this link to skip straight to the product page…**](#)
