@@ -37,7 +37,7 @@ This is another extremely popular Kayak with customers with over 20,000 reviews 
 
 The weight capacity of this kayak is 400lbs and it weighs 35lbs itself.  Customers who have bought this kayak have actually commented that it supports over this amount.  (But for safety reasons we obviously wouldn’t suggest doing that!)  It has 3 air chambers, has a removal skeg and grab lines and handles on both ends of the kayak making it easy to move.
 
-Customers who have bought the Intex Explorer K2 Kayak comment that it is easy to inflate, has plenty of leg room, easy to set up and that overall it represents great value for money.
+Customers who have bought the [**Intex Explorer K2 Kayak**](#) comment that it is easy to inflate, has plenty of leg room, easy to set up and that overall it represents great value for money.
 
 [**Check out the Intex Explorer K2 Kayak by clicking here to go to Amazon.com…**](#)
 
@@ -69,11 +69,13 @@ This kayak is certified by the national marine manufacturers association using A
 
 ## Whats included with the Intex Explorer 2 Kayak?
 
-Straight out of the box you get a number of things included with this kayak.  The first is the carrier bag and  the Hi-output pump.  You also get 2 collapsible paddles
+Straight out of the box you get a number of things included with this kayak.  The first is the carrier bag and  the Hi-output pump.  You also get 2 collapsible paddles,
+
+![Collapsible paddles](/uploads/f339cb0a-bd3c-49e3-a8ac-cc407ec7695d.jpeg "Collapsible paddles")
 
 ## Verdict
 
-5/5
+**5/5**
 
 For this price point we think that the [**Intex Explorer K2 Kayak**](#) represents fantastic value for money and is a really affordable and practical option for anyone who wants to get in the water in comfort and style and enjoy everything the outdoors has to offer. The fact that the seats are both adjustable and removable makes this a great option for fishing as well.  So it can be used in a variety of different situations by a variety of different types of people.
 
