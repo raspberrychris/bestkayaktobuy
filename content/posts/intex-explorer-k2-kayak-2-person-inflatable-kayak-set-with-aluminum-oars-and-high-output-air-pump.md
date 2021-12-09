@@ -29,7 +29,17 @@ URL = ""
 appendFilePath = false
 
 +++
-In this review Intex Explorer 
+In this review we will take a look at the [**Intex Explorer K2 Kayak** ](#)and we will take this kayak through its paces and understand what it is about this Kayak that has made it one of the most popular 2 seater inflatable kayaks out there.  
+
+[**If you cant wait and want to skip to the product page, click this link to skip straight to the product page…**](#)
+
+This is another extremely popular Kayak with customers with over 20,000 reviews and a 74% rating, you can be assured that this is a high quality kayak that has been tried and tested by thousands of customers.
+
+The weight capacity of this kayak is 400lbs and it weighs 35lbs itself.  It has 3 air chambers.
+
+## Comfortable adjustable seating
+
+This Kayak is comfy to sit in, it has an adjustable seat with a backrest and you will have no problem staying in this kayak for hours while you are out and about on the water.
 
 **Features of the Intex Explorer K2 Kayak**
 
@@ -38,3 +48,11 @@ In this review Intex Explorer
 * Directional stability: Removable SKEG for directional stability
 * Increased visibility: In case of emergency, bright yellow color helps visibility
 * Made for smaller bodies of water: Explorer k2 is made for smaller bodies of water including lakes and mild rivers
+
+## Made of resistant materials
+
+You won’t have to worry 
+
+## Certified
+
+This kayak is certified by the national marine manufacturers association using ABYC standards.
