@@ -98,9 +98,11 @@ params:
     homeInfoParams:
         Title: "Best Kayak To Buy"
         Content: >
-            Welcome to Bestkayaktobuy.com
+            Welcome to Bestkayaktobuy.com where we help you to make the right choice when purchasing your next kayak!  
+            
+            My name is Chris and I got into kayaking during 2019, since then I have been documenting my findings on Kayaking into this blog to share my opinion and reviews of the different kayaks out there.
 
-            Check out our posts below.
+            Check out our posts below. I hope you enjoy the site!
 
     cover:
       hidden: false # hide everywhere but not in structured data
