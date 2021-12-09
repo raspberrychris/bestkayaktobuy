@@ -51,8 +51,12 @@ This Kayak is comfy to sit in, it has an adjustable seat with a backrest and you
 
 ## Made of resistant materials
 
-You won’t have to worry 
+You won’t have to worry about getting punctures that often with this kayak as it is of made of heavy duty puncture resistant materials.
 
 ## Certified
 
 This kayak is certified by the national marine manufacturers association using ABYC standards.
+
+## Whats included with the Intex Explorer 2 Kayak?
+
+Straight out of the box you get a number of things included with this kayak.  The first is the carrier bag and obviously the Hi-output pump.
